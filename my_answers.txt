@@ -1,1 +1,3 @@
 Test Skills course with Git and GitHub
+Adding a few lines
+To test whether push and pull works.
