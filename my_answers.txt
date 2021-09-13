@@ -1,3 +1,8 @@
 Test Skills course with Git and GitHub
+<<<<<<< HEAD
 
 Another test
+=======
+Adding a few lines
+To test whether push and pull works.
+>>>>>>> 716c933a294caa881e9e587181e57d8401a08613
